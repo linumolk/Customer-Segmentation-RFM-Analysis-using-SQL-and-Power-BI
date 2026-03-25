@@ -64,10 +64,7 @@ Customers were segmented into:
 
 ---
 
-## 📊 Dashboard Preview(Power BI) :
-
-
----
+## 📊 Dashboard Creation (Power BI) :
 
 Key Visuals:
 
@@ -79,6 +76,10 @@ Key Visuals:
 7. Top 5 Customers
 8. Customer vs Revenue Comparison (Combo Chart)
 9. Segment Filter (Slicer)
+
+
+## Dashboard Preview : 
+![RFM_Dashboard}(RFM_Analysis_Dashboard.png).
 
 --- 
 
