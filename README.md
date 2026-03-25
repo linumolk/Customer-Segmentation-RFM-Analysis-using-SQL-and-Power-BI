@@ -79,7 +79,7 @@ Key Visuals:
 
 
 ## Dashboard Preview : 
-![RFM_Dashboard}(RFM_Analysis_Dashboard.png).
+![RFM_Dashboard](RFM_Analysis_Dashboard.png).
 
 --- 
 
